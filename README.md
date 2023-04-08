@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifah43" alt="rifah43" /></a> </p>
 
 <br>
-<img align="center" alt="coding girl" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="center" alt="coding girl" width="700" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 
 - 🌱 I’m currently learning **ReactJS, ALgorithms, Python**
